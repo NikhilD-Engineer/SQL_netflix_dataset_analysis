@@ -5,8 +5,8 @@
 ## Project Overview
 
 This project aims to analyze Netflix's viewing data using SQL queries on PostgreSQL 17. The dataset includes movie information, user ratings, and watch history. The analysis explores various aspects of user behavior, movie performance, and engagement patterns using advanced SQL queries, including window functions.
-**Difficulty:** Advanced
-**Database:**'netflix_db' 
+- **Difficulty:** Advanced
+- **Database:**'netflix_db' 
 
 ## Objective
 1. The primary objectives of this project are:
