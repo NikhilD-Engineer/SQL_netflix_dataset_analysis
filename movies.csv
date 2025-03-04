@@ -1,0 +1,101 @@
+movie_id,title,type,release_year,genre,duration,language,country,imdb_rating
+1,Movie 1,TV Show,2017,Drama,101,English,Japan,6.1
+2,Movie 2,TV Show,1993,Sci-Fi,1 seasons,French,Japan,3.1
+3,Movie 3,TV Show,1997,Horror,174,Japanese,India,4.4
+4,Movie 4,TV Show,2008,Action,136,Japanese,USA,9.4
+5,Movie 5,TV Show,2003,Romance,1 seasons,French,France,9.4
+6,Movie 6,Movie,2014,Drama,116,Spanish,France,4.0
+7,Movie 7,Movie,2002,Romance,3 seasons,Hindi,UK,7.3
+8,Movie 8,TV Show,2010,Romance,10 seasons,Spanish,France,4.4
+9,Movie 9,TV Show,1995,Comedy,143,Japanese,USA,6.7
+10,Movie 10,Movie,2012,Drama,10 seasons,Spanish,UK,5.3
+11,Movie 11,TV Show,2001,Horror,7 seasons,English,France,9.3
+12,Movie 12,TV Show,1995,Action,1 seasons,English,Japan,4.0
+13,Movie 13,Movie,1995,Action,2 seasons,Spanish,Japan,7.5
+14,Movie 14,Movie,2023,Drama,74,Spanish,France,6.8
+15,Movie 15,Movie,2023,Horror,1 seasons,Japanese,UK,3.7
+16,Movie 16,TV Show,2013,Drama,10 seasons,Spanish,UK,7.4
+17,Movie 17,Movie,1990,Comedy,9 seasons,French,Japan,3.7
+18,Movie 18,TV Show,1999,Drama,2 seasons,Japanese,UK,6.5
+19,Movie 19,TV Show,2011,Horror,10 seasons,French,USA,4.2
+20,Movie 20,TV Show,2004,Action,2 seasons,English,Japan,4.0
+21,Movie 21,Movie,1990,Romance,1 seasons,Japanese,France,5.5
+22,Movie 22,TV Show,2017,Romance,7 seasons,Japanese,UK,8.7
+23,Movie 23,Movie,2019,Comedy,103,Japanese,France,6.0
+24,Movie 24,TV Show,1999,Sci-Fi,163,Japanese,India,6.9
+25,Movie 25,TV Show,1993,Drama,146,English,India,3.2
+26,Movie 26,TV Show,1999,Action,7 seasons,Hindi,UK,6.6
+27,Movie 27,Movie,2021,Action,4 seasons,French,Japan,4.0
+28,Movie 28,TV Show,2013,Horror,63,Japanese,USA,3.8
+29,Movie 29,Movie,2009,Romance,3 seasons,Spanish,France,5.4
+30,Movie 30,TV Show,2004,Sci-Fi,2 seasons,Hindi,India,3.3
+31,Movie 31,TV Show,1995,Sci-Fi,2 seasons,English,France,6.8
+32,Movie 32,Movie,2018,Drama,105,Hindi,Japan,6.2
+33,Movie 33,Movie,2000,Action,1 seasons,Spanish,France,6.7
+34,Movie 34,TV Show,2020,Horror,7 seasons,English,France,4.9
+35,Movie 35,Movie,2020,Action,76,Japanese,USA,8.6
+36,Movie 36,Movie,2015,Horror,2 seasons,French,India,7.2
+37,Movie 37,TV Show,1995,Horror,176,Hindi,France,6.8
+38,Movie 38,Movie,2019,Action,8 seasons,French,France,4.5
+39,Movie 39,TV Show,2012,Drama,179,French,India,8.7
+40,Movie 40,TV Show,2001,Drama,8 seasons,Spanish,India,9.5
+41,Movie 41,TV Show,2009,Sci-Fi,78,French,Japan,6.1
+42,Movie 42,TV Show,1996,Comedy,1 seasons,French,USA,5.8
+43,Movie 43,Movie,1993,Drama,7 seasons,Hindi,India,4.6
+44,Movie 44,TV Show,2007,Action,127,Hindi,Japan,5.1
+45,Movie 45,Movie,1992,Drama,2 seasons,French,India,7.3
+46,Movie 46,Movie,1999,Comedy,8 seasons,Japanese,France,4.9
+47,Movie 47,Movie,2009,Comedy,9 seasons,French,UK,7.0
+48,Movie 48,TV Show,2000,Horror,8 seasons,Hindi,France,7.9
+49,Movie 49,Movie,1993,Horror,134,Japanese,France,4.2
+50,Movie 50,Movie,2010,Horror,99,Japanese,UK,7.4
+51,Movie 51,TV Show,2019,Action,5 seasons,French,USA,5.8
+52,Movie 52,Movie,1990,Comedy,2 seasons,Hindi,USA,5.2
+53,Movie 53,TV Show,2006,Sci-Fi,83,Hindi,UK,6.3
+54,Movie 54,Movie,2023,Romance,8 seasons,French,UK,7.4
+55,Movie 55,Movie,2014,Horror,8 seasons,Hindi,France,6.2
+56,Movie 56,Movie,1998,Action,3 seasons,English,France,6.4
+57,Movie 57,TV Show,1990,Sci-Fi,3 seasons,Hindi,UK,3.5
+58,Movie 58,TV Show,1995,Horror,9 seasons,French,India,9.1
+59,Movie 59,Movie,2006,Romance,10 seasons,French,USA,5.4
+60,Movie 60,Movie,1992,Action,5 seasons,French,India,6.7
+61,Movie 61,TV Show,2000,Romance,123,Spanish,Japan,3.9
+62,Movie 62,TV Show,1999,Comedy,7 seasons,Japanese,Japan,7.2
+63,Movie 63,TV Show,2014,Sci-Fi,8 seasons,French,USA,3.5
+64,Movie 64,Movie,1999,Drama,5 seasons,Spanish,France,8.0
+65,Movie 65,Movie,2018,Comedy,3 seasons,English,Japan,3.3
+66,Movie 66,Movie,1999,Action,7 seasons,Spanish,India,4.6
+67,Movie 67,Movie,2000,Action,88,Spanish,Japan,5.7
+68,Movie 68,TV Show,2002,Drama,142,Hindi,France,3.7
+69,Movie 69,Movie,2017,Comedy,9 seasons,Spanish,USA,8.1
+70,Movie 70,Movie,2005,Drama,8 seasons,Hindi,USA,5.1
+71,Movie 71,TV Show,2015,Drama,1 seasons,Spanish,Japan,8.0
+72,Movie 72,Movie,2025,Horror,67,French,India,8.1
+73,Movie 73,Movie,2025,Horror,84,French,Japan,7.2
+74,Movie 74,Movie,2003,Comedy,79,Spanish,France,5.0
+75,Movie 75,Movie,1992,Drama,2 seasons,English,India,5.5
+76,Movie 76,Movie,2004,Sci-Fi,162,Spanish,France,4.8
+77,Movie 77,Movie,2008,Action,86,French,USA,6.5
+78,Movie 78,Movie,2010,Sci-Fi,8 seasons,Spanish,USA,7.8
+79,Movie 79,Movie,1996,Sci-Fi,5 seasons,Hindi,USA,8.9
+80,Movie 80,Movie,2015,Horror,158,Japanese,USA,5.9
+81,Movie 81,TV Show,1995,Romance,98,French,France,7.7
+82,Movie 82,Movie,2017,Romance,8 seasons,English,Japan,4.3
+83,Movie 83,TV Show,2006,Drama,5 seasons,Spanish,UK,8.6
+84,Movie 84,Movie,2025,Comedy,7 seasons,English,Japan,4.3
+85,Movie 85,Movie,2010,Romance,3 seasons,Japanese,Japan,4.3
+86,Movie 86,TV Show,2017,Romance,5 seasons,French,UK,4.6
+87,Movie 87,TV Show,1995,Romance,1 seasons,Hindi,UK,6.6
+88,Movie 88,TV Show,1994,Action,2 seasons,Japanese,Japan,7.5
+89,Movie 89,Movie,1992,Sci-Fi,6 seasons,Hindi,Japan,3.6
+90,Movie 90,TV Show,2010,Comedy,10 seasons,Japanese,France,5.1
+91,Movie 91,Movie,2014,Horror,6 seasons,Japanese,Japan,7.5
+92,Movie 92,TV Show,1999,Drama,5 seasons,Japanese,USA,5.6
+93,Movie 93,TV Show,1995,Drama,116,Hindi,UK,5.2
+94,Movie 94,Movie,2024,Sci-Fi,1 seasons,French,Japan,4.8
+95,Movie 95,Movie,2014,Horror,87,French,Japan,5.4
+96,Movie 96,TV Show,2015,Sci-Fi,7 seasons,Japanese,USA,4.8
+97,Movie 97,Movie,2014,Drama,4 seasons,Spanish,USA,4.0
+98,Movie 98,Movie,2009,Sci-Fi,166,Spanish,France,5.3
+99,Movie 99,Movie,1997,Horror,1 seasons,Japanese,Japan,6.6
+100,Movie 100,Movie,2003,Comedy,1 seasons,Hindi,USA,6.5
