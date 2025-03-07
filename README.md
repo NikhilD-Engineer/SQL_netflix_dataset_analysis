@@ -436,7 +436,6 @@ git clone https://github.com/NikhilD-Engineer/SQL_netflix_dataset_analysis.git
 
 - Modify or expand queries to explore additional insights.
 
-For further improvements, consider integrating this analysis with visualization tools like Tableau or Power BI!
 
 ## Author - Nikhil Dagale
 
